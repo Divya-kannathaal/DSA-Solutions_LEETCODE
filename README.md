@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2551-apply-operations-to-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1170-shortest-common-supersequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
