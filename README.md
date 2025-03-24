@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
