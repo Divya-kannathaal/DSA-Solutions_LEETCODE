@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
