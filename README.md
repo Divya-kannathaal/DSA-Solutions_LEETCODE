@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
