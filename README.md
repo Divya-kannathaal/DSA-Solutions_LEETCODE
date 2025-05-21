@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
