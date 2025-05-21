@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0118-pascals-triangle) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2998-count-symmetric-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
