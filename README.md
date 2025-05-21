@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
