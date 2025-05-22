@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -166,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
