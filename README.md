@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0050-powx-n) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
