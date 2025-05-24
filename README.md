@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3321-type-of-triangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3194-find-words-containing-character](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
