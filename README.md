@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -282,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
