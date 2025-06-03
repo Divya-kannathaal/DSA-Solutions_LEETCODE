@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0493-reverse-pairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
