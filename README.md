@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0455-assign-cookies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
