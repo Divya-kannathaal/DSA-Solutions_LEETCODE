@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0455-assign-cookies) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
