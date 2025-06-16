@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2478-longest-nice-subarray) |
