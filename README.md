@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
