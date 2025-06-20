@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0455-assign-cookies) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
