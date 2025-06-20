@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3321-type-of-triangle) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
