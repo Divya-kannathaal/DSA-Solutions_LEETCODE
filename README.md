@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0031-next-permutation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
