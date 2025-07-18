@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
