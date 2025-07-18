@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3647-zero-array-transformation-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3647-zero-array-transformation-iii) |
