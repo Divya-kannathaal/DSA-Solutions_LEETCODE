@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1813-maximum-erasure-value](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
