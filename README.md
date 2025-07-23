@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0496-next-greater-element-i) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Quickselect
 |  |
