@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2478-longest-nice-subarray) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
