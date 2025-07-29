@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2551-apply-operations-to-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2690-house-robber-iv) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
