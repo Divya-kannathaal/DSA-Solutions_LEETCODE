@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0493-reverse-pairs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
 |  |
 | ------- |
