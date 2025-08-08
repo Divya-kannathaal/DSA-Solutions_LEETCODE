@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0075-sort-colors) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
