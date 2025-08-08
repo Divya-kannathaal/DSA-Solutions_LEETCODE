@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0826-soup-servings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1170-shortest-common-supersequence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0826-soup-servings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -569,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
