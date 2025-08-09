@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0344-reverse-string) |
 | [1170-shortest-common-supersequence](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0455-assign-cookies) |
