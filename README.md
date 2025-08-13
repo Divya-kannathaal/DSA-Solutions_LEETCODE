@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0900-reordered-power-of-2) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0326-power-of-three) |
 ## Topological Sort
 |  |
 | ------- |
