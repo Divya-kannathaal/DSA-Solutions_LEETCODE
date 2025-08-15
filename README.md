@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0900-reordered-power-of-2) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Divya-kannathaal/DSA-Solutions_LEETCODE/tree/master/0342-power-of-four) |
 ## Topological Sort
 |  |
 | ------- |
